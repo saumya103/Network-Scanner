@@ -1,2 +1,1 @@
-# Network-Scanner
-The objective of this project is to create a Python-based network scanner that detects active devices in a given IP range.
+This project is a high-performance TCP port scanner built in Python, designed to identify open ports and services running on a target host. It uses multithreading via concurrent.futures to scan hundreds of ports in parallel, making it fast and efficient for both educational and practical use.
